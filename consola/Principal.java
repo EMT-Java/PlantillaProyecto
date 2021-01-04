@@ -1,6 +1,6 @@
-//package ejercicio1;
+//package consola;
 
-public class Main {
+public class Principal {
 
 	public static void main(String[] args) {
 		Programa p=new Programa();

@@ -1,4 +1,4 @@
-//package ejercicio1;
+package logica;
 
 import java.util.Scanner;
 import java.util.Random;
@@ -45,7 +45,7 @@ public class Programa {
 	}
 	
 	int multiplica(int a1, int a2) {
-		System.out.println("Â¿CuÃ¡nto es "+a1+" por "+a2+"?");
+		System.out.println("¿Cuánto es "+a1+" por "+a2+"?");
 		return (a1 * a2);
 	}
 }
