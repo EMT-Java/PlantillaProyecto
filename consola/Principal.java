@@ -1,4 +1,6 @@
-//package consola;
+package consola;
+
+import logica.*;
 
 public class Principal {
 
